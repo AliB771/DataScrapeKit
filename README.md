@@ -1,6 +1,6 @@
 # DataScrapeKit
 align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png" alt="Project Logo" width="150"/>
+
 </p>
 
 <h1 align="center">Persian Web Crawler 🕸️📰</h1>
@@ -23,16 +23,6 @@ align="center">
 - مناسب برای آماده‌سازی کورپوس خام برای مدل‌های زبانی فارسی  
 - طراحی ساده، قابل توسعه برای وب‌سایت‌های جدید  
 - پشتیبانی از ابزارهای پردازش زبان طبیعی و LLMها (مثل ساخت dataset و فرمت‌های fine-tune)
-
----
-
-## 📐 معماری کلی پروژه
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/architecture.png" alt="Architecture Diagram" width="600"/>
-</p>
-
----
 
 ## 📁 ساختار پروژه (Project Structure)
 
