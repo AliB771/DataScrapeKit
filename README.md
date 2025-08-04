@@ -1,6 +1,4 @@
 # DataScrapeKit
-align="center">
-
 </p>
 
 <h1 align="center">Persian Web Crawler 🕸️📰</h1>
